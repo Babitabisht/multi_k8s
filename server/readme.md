@@ -1,1 +1,1 @@
-docker build -t babitabisht/server  -f Dockerfile.dev .
+1. docker build -t babitabisht/server  -f Dockerfile.dev .
