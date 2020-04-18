@@ -1,0 +1,1 @@
+docker build -t babitabisht/server  -f Dockerfile.dev .
